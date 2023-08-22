@@ -138,6 +138,9 @@
     <environment_variables comp_interface="nuopc">
 	    <env name="ESMFMKFILE">$ENV{ESMF_PATH}/lib/esmf.mk</env>
     </environment_variables>
+    <environment_variables>
+	    <env name="PIO">/project/s1207/ivanderk/spack-install/cray-cnl7-haswell/gcc-9.3.0/parallelio-2.5.10-syh3yqqrmal6pvuahzx2ia55azg5ncms/</env>
+    </environment_variables>
   </machine>
 
 </config_machines>
